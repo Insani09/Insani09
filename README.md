@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Iam Insani
+I am a junior programmer with a strong foundation in software engineering, currently pursuing my education at SMKN 1 Surabaya, majoring in Software Engineering. I am passionate about coding, problem-solving, and continuously improving my technical skills.
 
 
 ## 🌐 Socials:
@@ -19,3 +19,4 @@ Hi, Iam Insani
 [![](https://visitcount.itsvg.in/api?id=Insani09&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
